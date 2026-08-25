@@ -1,13 +1,13 @@
-# 📚 Programación de Computadores en Python — 2026-I
+# 📚 Programación de Computadores en Python — 2026-2
 
-Repositorio del curso **Programación de Computadores en Python (2026-I)**.  
+Repositorio del curso **Programación de Computadores en Python (2026-2)**.  
 Incluye **notebooks de Google Colab** y **material complementario** para la clase.
 
 ---
 
 ## 🔗 Repositorio principal
 
-- URL: [https://github.com/dherreraal/PC_Python_2026I](https://github.com/dherreraal/PC_Python_2026I)
+- URL: [https://github.com/dherreraal/programacion_de_computadores_en_python](https://github.com/dherreraal/programacion_de_computadores_en_python)
 - Rama principal: `main`
 
 ---
@@ -23,13 +23,13 @@ Incluye **notebooks de Google Colab** y **material complementario** para la clas
 ## 🍴 Cómo hacer **fork**
 
 1. Ingresa al repositorio principal:  
-   👉 [https://github.com/dherreraal/PC_Python_2026I](https://github.com/dherreraal/PC_Python_2026I)  
+   👉 [https://github.com/dherreraal/programacion_de_computadores_en_python](https://github.com/dherreraal/programacion_de_computadores_en_python)  
 2. Haz clic en **Fork** (arriba a la derecha).  
 3. Selecciona tu cuenta de GitHub y confirma.  
 4. (Opcional) Clona tu fork a tu PC:  
    ```bash
-   git clone https://github.com/TU_USUARIO/PC_Python_2026I.git
-   cd PC_Python_2026I
+   git clone https://github.com/TU_USUARIO/programacion_de_computadores_en_python.git
+   cd programacion_de_computadores_en_python
    ```
 
 ---
@@ -38,7 +38,7 @@ Incluye **notebooks de Google Colab** y **material complementario** para la clas
 
 ### Desde la web (lo más fácil)
 
-1. Ve a tu fork: `https://github.com/TU_USUARIO/PC_Python_2026I`.
+1. Ve a tu fork: `https://github.com/TU_USUARIO/programacion_de_computadores_en_python`.
 2. Haz clic en **Sync fork** o **Fetch upstream**.
 3. Pulsa **Update branch / Sync fork**.
 
@@ -46,7 +46,7 @@ Incluye **notebooks de Google Colab** y **material complementario** para la clas
 
 Configura el remoto `upstream` (solo la primera vez):
 ```bash
-git remote add upstream https://github.com/dherreraal/PC_Python_2026I.git
+git remote add upstream https://github.com/dherreraal/programacion_de_computadores_en_python.git
 git fetch upstream
 ```
 
@@ -67,7 +67,7 @@ Ejemplo (ajusta según la ruta del notebook):
 
 ```markdown
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/dherreraal/PC_Python_2026I/blob/main/notebooks/01_intro.ipynb)
+https://colab.research.google.com/github/dherreraal/programacion_de_computadores_en_python/blob/main/notebooks/01_intro.ipynb)
 ```
 
 > Reemplaza `notebooks/01_intro.ipynb` por la ruta exacta del archivo.
@@ -76,7 +76,7 @@ https://colab.research.google.com/github/dherreraal/PC_Python_2026I/blob/main/no
 
 1. Ve a 👉 [Google Colab](https://colab.research.google.com/).
 2. Menú **Archivo → Abrir cuaderno**.
-3. Pestaña **GitHub** → escribe `dherreraal/PC_Python_2026I`.
+3. Pestaña **GitHub** → escribe `dherreraal/programacion_de_computadores_en_python`.
 4. Selecciona el notebook que quieras abrir.
 
 ### Opción 3 — Enlace directo
@@ -84,7 +84,7 @@ https://colab.research.google.com/github/dherreraal/PC_Python_2026I/blob/main/no
 Usa esta URL como plantilla:  
 
 ```
-https://colab.research.google.com/github/dherreraal/PC_Python_2026I/blob/main/RUTA/AL/NOTEBOOK.ipynb
+https://colab.research.google.com/github/dherreraal/programacion_de_computadores_en_python/blob/main/RUTA/AL/NOTEBOOK.ipynb
 ```
 
 ---
@@ -107,7 +107,7 @@ https://colab.research.google.com/github/dherreraal/PC_Python_2026I/blob/main/RU
    git push -u origin mi-cambio
    ```
 3. En tu fork en GitHub, pulsa **Compare & pull request**.
-4. Envía el PR hacia `dherreraal/PC_Python_2026I`.
+4. Envía el PR hacia `dherreraal/programacion_de_computadores_en_python`.
 
 ---
 
@@ -118,7 +118,7 @@ https://colab.research.google.com/github/dherreraal/PC_Python_2026I/blob/main/RU
 - **Colab no me deja guardar en GitHub**  
   Asegúrate de estar logueado y de dar permisos a Colab.  
 - **No encuentro el notebook en Colab**  
-  Escribe `dherreraal/PC_Python_2026I` en la pestaña GitHub de Colab o usa el enlace directo.  
+  Escribe `dherreraal/programacion_de_computadores_en_python` en la pestaña GitHub de Colab o usa el enlace directo.  
 
 ---
 
