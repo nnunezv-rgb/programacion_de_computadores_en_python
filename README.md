@@ -1,5 +1,5 @@
 # 📚 Programación de Computadores en Python — 2026-2
-
+xxxx
 Repositorio del curso **Programación de Computadores en Python (2026-2)**.  
 Incluye **notebooks de Google Colab** y **material complementario** para la clase.
 
